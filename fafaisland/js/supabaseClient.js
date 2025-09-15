@@ -4,8 +4,8 @@
 ;(function(){
   // Replace these with your Supabase project's values (Project Settings → API)
   // You can safely commit these, but consider different branches per environment.
-  const SUPABASE_URL = "https://YOUR-PROJECT-REF.supabase.co";
-  const SUPABASE_ANON_KEY = "YOUR-ANON-KEY";
+  const SUPABASE_URL = "https://jnirvdgnvqmipznvzyrb.supabase.co";
+  const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpuaXJ2ZGdudnFtaXB6bnZ6eXJiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTc5MTk1MjAsImV4cCI6MjA3MzQ5NTUyMH0.iHhjTCK4XgLido-GatUZYbd55tn_lgnveN0cOBHR8QI";
 
   if (!window.supabase) {
     // Load from CDN if not already present
